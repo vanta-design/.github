@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/vanta-design/.github/refs/heads/main/assets/cover.png" alt="A swan gracefully swims in the center of the image" style="width: 100%; height: auto;">
-<br> <br>
+
 <a href="https://github.com/vanta-design/desktop">
   <img src="https://raw.githubusercontent.com/vanta-design/.github/refs/heads/main/assets/desktop.png" style="width: 100%; height: auto;">
 </a>
